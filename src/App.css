@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Hours, .Minutes, .Seconds, .Days{
+  display: inline;
+  margin: 5px;
+}
+
+.timeFormat {
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
